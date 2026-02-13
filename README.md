@@ -69,7 +69,7 @@ The system operates on a robust relational structure to ensure **Referential Int
 
 ## 🚀 How to Run (One-Click Extraction)
 
-The project is designed for "One-Click" execution via PyCharm:
+The project is designed for "One-Click" execution via PyCharm, as long as connection access to database server is maintained:
 
 1. **Configure Connection:** Update the `SERVER_NAME` in `config.py` to match your SQL Instance.
 2. **Execute:** Run `main.py`.
@@ -88,4 +88,5 @@ The project is designed for "One-Click" execution via PyCharm:
 ---
 
 **Developed by:** Fadi A. Saif
+
 **Focus:** Financial Data Engineering & Strategic Automation
