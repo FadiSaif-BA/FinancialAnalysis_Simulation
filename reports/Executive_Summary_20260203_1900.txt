@@ -1,0 +1,25 @@
+============================================================
+FINANCIAL HEALTH CHECK
+Generated: 2026-02-03 19:00:47
+============================================================
+
+📊 ACCOUNTS RECEIVABLE
+  DSO: 29.76 days
+  Total AR: $452,739,098.00
+  Total Overdue: $412,746,617.00
+  Toxic Debt (90+): $378,689,880.00
+  Health Score: Critical
+
+🔧 WORK-IN-PROGRESS
+  Total WIP Value: $117,119,516.00
+  Leakage Coefficient: 7.1%
+  Stale WIP: $117,119,516.00
+  WIP Status: Monitor
+
+⚠️ CLIENT RISK
+  Clients Graded: 286
+  High-Risk Clients: 0
+  High-Risk Exposure: $0.00
+  Portfolio Grade: A
+
+============================================================

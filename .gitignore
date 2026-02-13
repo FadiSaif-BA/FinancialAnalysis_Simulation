@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.idea/
+
+# Project specific
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
